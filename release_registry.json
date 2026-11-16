@@ -34,17 +34,17 @@
         "expected_folder": "manuscripts"
       }
     ],
+    "unexpected_files": [
+      {
+        "path": "manuscripts/TRC-9901_haverly.md"
+      }
+    ],
     "stray_files": [
       {
         "path": "field_notes_archive.txt"
       },
       {
         "path": "legacy_2019_export.csv"
-      }
-    ],
-    "unexpected_files": [
-      {
-        "path": "manuscripts/TRC-9901_haverly.md"
       }
     ],
     "people": [
@@ -752,7 +752,7 @@
       "project_code": "BCP-06",
       "title": "Probabilistic Storm Surge Ensembles for Emergency Planning",
       "repository": {
-        "url": "https://github.com/komal74784391-netizen/bcp4058-program-q7v3/tree/main/projects/bcp4058-storm-surge-ensemble-q7v3"
+        "url": "https://github.com/komal74784391-netizen/bcp4058-program-q7v3/tree/main/projects/bcp4058-probabilistic-storm-surge-ensemble-q7v3"
       }
     }
   ]
